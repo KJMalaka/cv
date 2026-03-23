@@ -1,79 +1,90 @@
-# Katlego Malaka — Application Development Student
+# Katlego Malaka
 
-📍 Woodstock, Cape Town &nbsp;|&nbsp; 📞 +27 76 913 5144 &nbsp;|&nbsp; ✉️ 230443370@mycput.ac.za
+** Application Development Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-katlegojeffrey--malaka-blue?logo=linkedin)](https://linkedin.com/in/katlegojeffrey-malaka)
-[![GitHub](https://img.shields.io/badge/GitHub-KJMalaka-black?logo=github)](https://github.com/KJMalaka)
+Woodstock, Cape Town &nbsp;|&nbsp; 230443370@mycput.ac.za &nbsp;|&nbsp; +27 76 913 5144
 
----
-
-## 👤 About Me
-
-Final-year ICT Applications Development student at CPUT, seeking a **Work Integrated Learning (WIL)** placement. Experienced Project Lead with full-stack development expertise in React, PHP, and Node.js. Proven track record delivering solutions ranging from clinic booking platforms to real-time notification systems — ready to contribute technical leadership and problem-solving skills to industry challenges.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/katlegojeffrey-malaka)
+[![GitHub](https://img.shields.io/badge/GitHub-KJMalaka-181717?logo=github&logoColor=white)](https://github.com/KJMalaka)
 
 ---
 
-## 🎓 Education
+## About
 
-| Year | Institution | Qualification |
-|------|-------------|---------------|
-| 2020 | Motswatemeng Secondary | National Senior Certificate |
-| 2023 | CPUT | Higher Certificate in ICT |
-| 2024 – 2026 | CPUT | Diploma in ICT: Applications Development *(Final Year)* |
+I am a final-year ICT Application Development student at CPUT, currently seeking a **Work Integrated Learning (WIL)** placement in software development. Over the course of my studies I have taken on project lead and developer roles across full-stack, backend, and desktop applications — gaining practical experience with industry tools and methodologies including Agile/Scrum, REST API design, and version control with Git.
+
+My academic work is complemented by a strong interest in software architecture, AI/ML, and building technology that solves real problems.
 
 ---
 
-## 🛠️ Technical Skills
+## Education
 
-**Frontend**
-`HTML & CSS` `JavaScript ES6+` `React & Redux`
+**Diploma in ICT: Application Development** *(Final Year, 2024 – 2026)*
+Cape Peninsula University of Technology
 
-**Backend**
-`Node.js & Express` `PHP` `Java` `Python`
+**Higher Certificate in ICT** *(2023)*
+Cape Peninsula University of Technology
+
+**National Senior Certificate** *(2020)*
+Motswatemeng Secondary School
+
+---
+
+## Technical Skills
+
+**Languages & Frameworks**
+`JavaScript (ES6+)` `React` `Redux` `Node.js` `Express` `PHP` `Java` `Python` `HTML & CSS`
 
 **Databases**
-`SQL & PostgreSQL` `MySQL` `Redis`
+`MySQL` `PostgreSQL` `Apache Derby` `Redis`
 
 **Tools & Practices**
-`Git & GitHub` `RESTful APIs` `Agile / Scrum` `Project Management`
+`Git & GitHub` `RESTful API Design` `Agile / Scrum` `Trello` `Postman`
 
 ---
 
-## 🚀 Projects
+## Academic Projects
 
-### 🏥 CPUT Clinic Booking System
-*Jan 2025 – Present &nbsp;|&nbsp; Project Lead · React.js · PHP · MySQL*
+### CPUT Clinic Booking System
+`React.js` `PHP` `MySQL` &nbsp;·&nbsp; *Project Lead · Jan 2025 – Present*
 
-- Developed a full-stack web application enabling CPUT students to book, reschedule, and cancel medical appointments — replacing a manual paper-based system
-- Led a team of 4 developers using Agile/Scrum methodology; managed task delegation and sprint planning via Trello across the complete project lifecycle
-- Built a PHP REST API with MySQL database schema (patients, appointments, doctors) and a React.js admin dashboard featuring role-based access control
+A full-stack web application developed to digitise the CPUT student health clinic's appointment process, replacing a paper-based system entirely. I led a team of four developers throughout the project lifecycle, coordinating sprint planning and task delegation via Trello under Agile methodology.
 
----
-
-### 🛒 TechHive SA — E-commerce Storefront
-*2025 &nbsp;|&nbsp; Frontend Developer · React.js · Redux · Stripe API*
-
-- Built a responsive South African tech retailer storefront with dynamic product filtering, shopping cart functionality, and secure checkout flow
-- Implemented global state management with Redux; integrated Stripe API for simulated secure payment processing
+- Designed and built a PHP REST API backed by a relational MySQL schema covering patients, appointments, and doctors
+- Developed a React.js admin dashboard with role-based access control for clinic staff
 
 ---
 
-### 🔔 Real-Time Notification Service
-*2025 &nbsp;|&nbsp; Backend Developer · Node.js · Express.js · Redis*
+### TechHive SA — E-Commerce Storefront
+`React.js` `Redux` `Stripe API` &nbsp;·&nbsp; *Frontend Developer · 2025*
 
-- Developed a standalone microservice delivering real-time in-app and email notifications via REST API
-- Implemented Redis caching to reduce database load, achieving sub-100ms response times; designed for independent scalability
+A responsive e-commerce storefront built for a simulated South African tech retailer, featuring dynamic product filtering, a shopping cart, and a checkout flow with payment integration.
+
+- Managed application-wide state using Redux
+- Integrated the Stripe API for simulated payment processing within a secure checkout experience
+
+---
+
+### Real-Time Notification Service
+`Node.js` `Express.js` `Redis` &nbsp;·&nbsp; *Backend Developer · 2025*
+
+A standalone microservice providing real-time in-app and email notifications via a REST API, designed for independent deployment and horizontal scalability.
+
+- Implemented Redis caching to reduce database load and achieve sub-100ms response times
 
 ---
 
-### 🎓 Student Enrolment System
-*2025 &nbsp;|&nbsp; Lead Developer · Java Swing · Java Sockets · Apache Derby DB*
+### Student Enrolment System
+`Java Swing` `Java Sockets` `Apache Derby` &nbsp;·&nbsp; *Lead Developer · 2025*
 
-- Created a networked client-server desktop application in Java, enabling staff to manage student records across multiple machines
-- Implemented a Java Socket layer for real-time communication across the network
-- Integrated Apache Derby DB with full CRUD operations and multi-level authentication (admin/staff / read-only)
+A networked client-server desktop application enabling institutional staff to manage student records across multiple machines in real time.
+
+- Implemented a Java Socket communication layer for live cross-machine data exchange
+- Integrated Apache Derby with full CRUD operations and a three-tier authentication model (admin / staff / read-only)
 
 ---
+
+
 
 ## 📬 References
 
