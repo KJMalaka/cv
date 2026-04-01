@@ -19,14 +19,14 @@ My academic work is complemented by a strong interest in software architecture, 
 
 ## Education
 
-**Diploma in ICT: Application Development** *(Final Year, 2024 – 2026)*
-Cape Peninsula University of Technology
+**National Senior Certificate** *(2020)*
+Motswatemeng Secondary School
 
 **Higher Certificate in ICT** *(2023)*
 Cape Peninsula University of Technology
 
-**National Senior Certificate** *(2020)*
-Motswatemeng Secondary School
+**Diploma in ICT: Application Development** *(Final Year, 2024 – 2026)*
+Cape Peninsula University of Technology
 
 ---
 
@@ -52,7 +52,7 @@ Motswatemeng Secondary School
 
 ---
 ## Mock Interview
-Hereis my Mock Interview
+Here is my Mock Interview
 <video width = "1000" controls>
-<source src = "Mock Interview.mp4"  type = video/mp4">
-</vide0>
+<source src = "Mock Interview.mp4"  type="video/mp4">
+</video>
