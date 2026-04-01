@@ -43,52 +43,16 @@ Motswatemeng Secondary School
 
 ---
 
-## Academic Projects
-
-### CPUT Clinic Booking System
-`React.js` `PHP` `MySQL` &nbsp;·&nbsp; *Project Lead · Jan 2025 – Present*
-
-A full-stack web application developed to digitise the CPUT student health clinic's appointment process, replacing a paper-based system entirely. I led a team of four developers throughout the project lifecycle, coordinating sprint planning and task delegation via Trello under Agile methodology.
-
-- Designed and built a PHP REST API backed by a relational MySQL schema covering patients, appointments, and doctors
-- Developed a React.js admin dashboard with role-based access control for clinic staff
-
----
-
-### TechHive SA — E-Commerce Storefront
-`React.js` `Redux` `Stripe API` &nbsp;·&nbsp; *Frontend Developer · 2025*
-
-A responsive e-commerce storefront built for a simulated South African tech retailer, featuring dynamic product filtering, a shopping cart, and a checkout flow with payment integration.
-
-- Managed application-wide state using Redux
-- Integrated the Stripe API for simulated payment processing within a secure checkout experience
-
----
-
-### Real-Time Notification Service
-`Node.js` `Express.js` `Redis` &nbsp;·&nbsp; *Backend Developer · 2025*
-
-A standalone microservice providing real-time in-app and email notifications via a REST API, designed for independent deployment and horizontal scalability.
-
-- Implemented Redis caching to reduce database load and achieve sub-100ms response times
-
----
-
-### Student Enrolment System
-`Java Swing` `Java Sockets` `Apache Derby` &nbsp;·&nbsp; *Lead Developer · 2025*
-
-A networked client-server desktop application enabling institutional staff to manage student records across multiple machines in real time.
-
-- Implemented a Java Socket communication layer for live cross-machine data exchange
-- Integrated Apache Derby with full CRUD operations and a three-tier authentication model (admin / staff / read-only)
-
----
-
-
-
 ##  References
 
 | Name | Role | Contact |
 |------|------|---------|
 | Tshepo Takang | Coach · Anglo American (Sishen) | 083 969 3972 · tshepotakang@angloamerican.com |
 | Neo Nashilo | Mentor · Anglo American (Sishen) | 071 864 0096 · neomashilo@angloamerican.com |
+
+---
+## Mock Interview
+Hereis my Mock Interview
+<video width = "1000" controls>
+<source src = "Mock Interview.mp4"  type = video/mp4">
+</vide0>
