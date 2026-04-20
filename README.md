@@ -1,16 +1,12 @@
 # 👋 Hey, I'm Katlego Jeffrey Malaka
 
-<div align="center">
-
-**Application Development Student · Future Software Architect · Cape Town, ZA**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/katlegojeffrey-malaka)
-[![GitHub](https://img.shields.io/badge/GitHub-KJMalaka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KJMalaka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://katlego-malaka.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:230443370@mycput.ac.za)
-
-</div>
-
+<p align="center"><strong>Application Development Student · Future Software Architect · Cape Town, ZA</strong></p>
+<p align="center">
+<a href="https://linkedin.com/in/katlegojeffrey-malaka"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/KJMalaka"><img src="https://img.shields.io/badge/GitHub-KJMalaka-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://katlego-malaka.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:230443370@mycput.ac.za"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 <br>
 
 ## 🧠 About Me
